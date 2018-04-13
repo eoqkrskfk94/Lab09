@@ -56,7 +56,6 @@ public class SalesReporter {
 			{
 				done = false; // put false in boolean done
 			}
-			
 		}
 		
 		
